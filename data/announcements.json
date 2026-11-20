@@ -1,0 +1,14 @@
+[
+  {
+    "id": "A-1001",
+    "title": "Water Interruption Notice",
+    "message": "Water service may be interrupted tomorrow morning from 8:00 AM to 11:00 AM for maintenance work.",
+    "posted_at": "2025-03-12 08:45:00"
+  },
+  {
+    "id": "A-1002",
+    "title": "House Rule Reminder",
+    "message": "Visitors must register at the front desk before entering the boarding house after 8:00 PM.",
+    "posted_at": "2025-03-14 14:20:00"
+  }
+]

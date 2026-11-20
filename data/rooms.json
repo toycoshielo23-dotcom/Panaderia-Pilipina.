@@ -1,0 +1,79 @@
+[
+    {
+        "id": "R-101",
+        "number": "3",
+        "type": "Single Bed",
+        "beds": 4,
+        "rate": 18000,
+        "status": "Occupied",
+        "description": "Quiet room near the kitchen and shared bathroom.",
+        "rate_per_bed": 4500,
+        "image": "uploads/rooms/e194460dbede1ea9ef897b56e7d43571.jpg"
+    },
+    {
+        "id": "R-102",
+        "number": "5",
+        "type": "Double Bed",
+        "beds": 4,
+        "rate": 4000,
+        "status": "Occupied",
+        "description": "Spacious room with a small study desk and cabinet.",
+        "rate_per_bed": 1000,
+        "image": "uploads/rooms/5e9c7b54c728fe968f023a5f7893907a.jpg"
+    },
+    {
+        "id": "R-103",
+        "number": "4",
+        "type": "Single Bed",
+        "beds": 4,
+        "rate": 3800,
+        "status": "Occupied",
+        "description": "Under repair for a new ceiling fan and repainting.",
+        "rate_per_bed": 950,
+        "image": "uploads/rooms/c66dbe82d26bd933c3b419fc1c8087a5.jpg"
+    },
+    {
+        "id": "R-104",
+        "number": "104",
+        "type": "Single Bed",
+        "beds": 4,
+        "rate": 4000,
+        "status": "Occupied",
+        "description": "Bright room with a cool breeze and windows facing the yard.",
+        "rate_per_bed": 1000,
+        "image": "uploads/rooms/03c1d188ebef96dfbb67c94803b6d12d.png"
+    },
+    {
+        "id": "R-201",
+        "number": "6",
+        "type": "Double Bed",
+        "beds": 4,
+        "rate": 3800,
+        "status": "Occupied",
+        "description": "Top-floor room with a larger common area and good ventilation.",
+        "rate_per_bed": 950,
+        "image": "uploads/rooms/d4a18a0a67402efcfad769bb89558459.jpg"
+    },
+    {
+        "id": "R-D31643",
+        "number": "1",
+        "type": "Double Bed",
+        "beds": 4,
+        "rate": 3800,
+        "status": "Occupied",
+        "description": "librium foam and clip fan",
+        "image": "uploads/rooms/7e292dd5a04144732e7b83b6d335b94a.jpg",
+        "rate_per_bed": 950
+    },
+    {
+        "id": "R-C90CD6",
+        "number": "2",
+        "type": "Room",
+        "beds": 4,
+        "rate_per_bed": 1000,
+        "rate": 4000,
+        "status": "Occupied",
+        "description": "libri kuryente at tubig",
+        "image": "uploads/rooms/3f892bee0ccecadcf1af33c06aac7679.jpg"
+    }
+]

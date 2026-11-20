@@ -1,0 +1,182 @@
+[
+    {
+        "id": "B-261116111356",
+        "tenant_id": "T-261116111356",
+        "month": "2026-11",
+        "amount": 4500,
+        "status": "Paid",
+        "due_date": "2026-11-15",
+        "paid_date": "2026-11-20",
+        "receipt_number": "RCP-20261120133205"
+    },
+    {
+        "id": "B-261120142056",
+        "tenant_id": "T-261120142056",
+        "month": "2026-11",
+        "amount": 950,
+        "status": "Unpaid",
+        "due_date": "2026-11-15",
+        "paid_date": null,
+        "receipt_number": null
+    },
+    {
+        "id": "B-261120142132",
+        "tenant_id": "T-261120142132",
+        "month": "2026-11",
+        "amount": 950,
+        "status": "Unpaid",
+        "due_date": "2026-11-15",
+        "paid_date": null,
+        "receipt_number": null
+    },
+    {
+        "id": "B-261120142157",
+        "tenant_id": "T-261120142157",
+        "month": "2026-11",
+        "amount": 950,
+        "status": "Unpaid",
+        "due_date": "2026-11-15",
+        "paid_date": null,
+        "receipt_number": null
+    },
+    {
+        "id": "B-261120142237",
+        "tenant_id": "T-261120142237",
+        "month": "2026-11",
+        "amount": 950,
+        "status": "Unpaid",
+        "due_date": "2026-11-15",
+        "paid_date": null,
+        "receipt_number": null
+    },
+    {
+        "id": "B-261120142331",
+        "tenant_id": "T-261120142331",
+        "month": "2026-11",
+        "amount": 950,
+        "status": "Unpaid",
+        "due_date": "2026-11-15",
+        "paid_date": null,
+        "receipt_number": null
+    },
+    {
+        "id": "B-261120142355",
+        "tenant_id": "T-261120142355",
+        "month": "2026-11",
+        "amount": 950,
+        "status": "Unpaid",
+        "due_date": "2026-11-15",
+        "paid_date": null,
+        "receipt_number": null
+    },
+    {
+        "id": "B-261120142442",
+        "tenant_id": "T-261120142442",
+        "month": "2026-11",
+        "amount": 4500,
+        "status": "Unpaid",
+        "due_date": "2026-11-15",
+        "paid_date": null,
+        "receipt_number": null
+    },
+    {
+        "id": "B-261120142718",
+        "tenant_id": "T-261120142717",
+        "month": "2026-11",
+        "amount": 950,
+        "status": "Unpaid",
+        "due_date": "2026-11-15",
+        "paid_date": null,
+        "receipt_number": null
+    },
+    {
+        "id": "B-261120142740",
+        "tenant_id": "T-261120142740",
+        "month": "2026-11",
+        "amount": 950,
+        "status": "Unpaid",
+        "due_date": "2026-11-15",
+        "paid_date": null,
+        "receipt_number": null
+    },
+    {
+        "id": "B-261120142821",
+        "tenant_id": "T-261120142821",
+        "month": "2026-11",
+        "amount": 1000,
+        "status": "Unpaid",
+        "due_date": "2026-11-15",
+        "paid_date": null,
+        "receipt_number": null
+    },
+    {
+        "id": "B-261120142859",
+        "tenant_id": "T-261120142858",
+        "month": "2026-11",
+        "amount": 1000,
+        "status": "Unpaid",
+        "due_date": "2026-11-15",
+        "paid_date": null,
+        "receipt_number": null
+    },
+    {
+        "id": "B-261120142941",
+        "tenant_id": "T-261120142940",
+        "month": "2026-11",
+        "amount": 1000,
+        "status": "Unpaid",
+        "due_date": "2026-11-15",
+        "paid_date": null,
+        "receipt_number": null
+    },
+    {
+        "id": "B-261120143040",
+        "tenant_id": "T-261120143040",
+        "month": "2026-11",
+        "amount": 1000,
+        "status": "Unpaid",
+        "due_date": "2026-11-15",
+        "paid_date": null,
+        "receipt_number": null
+    },
+    {
+        "id": "B-261120143122",
+        "tenant_id": "T-261120143122",
+        "month": "2026-11",
+        "amount": 1000,
+        "status": "Unpaid",
+        "due_date": "2026-11-15",
+        "paid_date": null,
+        "receipt_number": null
+    },
+    {
+        "id": "B-261120143315",
+        "tenant_id": "T-261120143315",
+        "month": "2026-11",
+        "amount": 1000,
+        "status": "Unpaid",
+        "due_date": "2026-11-15",
+        "paid_date": null,
+        "receipt_number": null
+    },
+    {
+        "id": "B-261120143726",
+        "tenant_id": "T-261120143726",
+        "month": "2026-11",
+        "amount": 1000,
+        "status": "Unpaid",
+        "due_date": "2026-11-15",
+        "paid_date": null,
+        "receipt_number": null
+    },
+    {
+        "id": "B-261120143833",
+        "tenant_id": "T-261120143833",
+        "month": "2026-11",
+        "amount": 1000,
+        "status": "Unpaid",
+        "due_date": "2026-11-15",
+        "paid_date": null,
+        "receipt_number": null
+    }
+]

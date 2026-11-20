@@ -1,0 +1,153 @@
+[
+    {
+        "id": "U-1001",
+        "username": "admin",
+        "password_hash": "$2y$12$YE5q4MwGV7FX3L0l3DDxE.eT/Pmpc/shUnp5RWnVu3fJOvfkbeCTm",
+        "role": "admin",
+        "name": "Owner"
+    },
+    {
+        "id": "U-261116111356",
+        "username": "jorge",
+        "password_hash": "$2y$12$4geQj6WSyYxuKPHo7bhfD.mW7G3YrAfN2pNsFsaOKTANYgKiSlKeG",
+        "role": "tenant",
+        "name": "Jorge",
+        "tenant_id": "T-261116111356"
+    },
+    {
+        "id": "U-261120142056",
+        "username": "dextervillasor",
+        "password_hash": "$2y$12$Zja8tDsRl3TDvFrZ8pFUsurLpvuSUQ0M.rtaL9cgCJVX5EdF4BDEO",
+        "role": "tenant",
+        "name": "Dexter Villasor",
+        "tenant_id": "T-261120142056"
+    },
+    {
+        "id": "U-261120142132",
+        "username": "charlesjordan",
+        "password_hash": "$2y$12$Mho6fxuOvm2/7AbreisRXe/J4MYCMbkKTozKw/X1XuUxjQu4i8nsa",
+        "role": "tenant",
+        "name": "Charles Jordan",
+        "tenant_id": "T-261120142132"
+    },
+    {
+        "id": "U-261120142157",
+        "username": "janpaulribo",
+        "password_hash": "$2y$12$NItWwj7qB2yqCalYp6rtDekSI37t7MIN/p2hZLx9jttKI17cevTgq",
+        "role": "tenant",
+        "name": "Jan Paul Ribo",
+        "tenant_id": "T-261120142157"
+    },
+    {
+        "id": "U-261120142237",
+        "username": "johnlaurencecanoy",
+        "password_hash": "$2y$12$QgF1W3.2GX2Rc0anraMfrOoc4A6HfSoq6LQ4ofHoyn3WkQpUpLuYO",
+        "role": "tenant",
+        "name": "John Laurence Canoy",
+        "tenant_id": "T-261120142237"
+    },
+    {
+        "id": "U-261120142331",
+        "username": "ajperezz",
+        "password_hash": "$2y$12$oGZAYKM5J7cW0SGOzQrpWeb/iSYOOQCZlUQPy/pzvx2aoGJct2l66",
+        "role": "tenant",
+        "name": "AJ Perezz",
+        "tenant_id": "T-261120142331"
+    },
+    {
+        "id": "U-261120142355",
+        "username": "christiancanoy",
+        "password_hash": "$2y$12$hGG69qycw9Kgagi8DRnDc.jWUOIos6YIznpAhBdlV3VcxjbXlvBUS",
+        "role": "tenant",
+        "name": "Christian Canoy",
+        "tenant_id": "T-261120142355"
+    },
+    {
+        "id": "U-261120142442",
+        "username": "heronbasesilverio",
+        "password_hash": "$2y$12$Q28vwa/M2VksEbMADwo7QuHiTsTKpNygmIZkyGW7l41ApIMe0NoqC",
+        "role": "tenant",
+        "name": "Heron Base Silverio",
+        "tenant_id": "T-261120142442"
+    },
+    {
+        "id": "U-261120142717",
+        "username": "johnmarkandrada",
+        "password_hash": "$2y$12$x780Acd7Cf6zzkoeMrHu8.XJZkP/5w/DTfitLJmcPTR0HYY.J9nZe",
+        "role": "tenant",
+        "name": "John Mark Andrada",
+        "tenant_id": "T-261120142717"
+    },
+    {
+        "id": "U-261120142740",
+        "username": "jesscanoy",
+        "password_hash": "$2y$12$jInAhrE4N8YQb21Y9mDGPeGjOQX944pyxgw9hv1o4y7jbFvc9nv9G",
+        "role": "tenant",
+        "name": "Jess Canoy",
+        "tenant_id": "T-261120142740"
+    },
+    {
+        "id": "U-261120142821",
+        "username": "jemarjordan",
+        "password_hash": "$2y$12$gU9N02g4qrLtH9xOwqDXuOO/IEgYkRCfRJ95j5EdSyEU5.TIKU542",
+        "role": "tenant",
+        "name": "Jemar Jordan",
+        "tenant_id": "T-261120142821"
+    },
+    {
+        "id": "U-261120142858",
+        "username": "marcyohan",
+        "password_hash": "$2y$12$KBGv7KMOs9iHWprY9omXrOKr2ALfCSlA6OoaoGvIrReQ3o8.JWbkG",
+        "role": "tenant",
+        "name": "Marc Yohan",
+        "tenant_id": "T-261120142858"
+    },
+    {
+        "id": "U-261120142940",
+        "username": "johnpauldechaca",
+        "password_hash": "$2y$12$8xvQqp1lN3zuNEmWUJVx2Or4talSw/pLibVfy7SzwsTrE5hIOEZNq",
+        "role": "tenant",
+        "name": "John Paul Dechaca",
+        "tenant_id": "T-261120142940"
+    },
+    {
+        "id": "U-261120143040",
+        "username": "joannanavarro",
+        "password_hash": "$2y$12$2iI3lcffnIw7hWRgk.nDheg1hDXGvYL0xO6QJrC2d9WhwSfi3bA1a",
+        "role": "tenant",
+        "name": "Joanna Navarro",
+        "tenant_id": "T-261120143040"
+    },
+    {
+        "id": "U-261120143122",
+        "username": "romelyngregorio",
+        "password_hash": "$2y$12$OCoiQW8UEG5KPgkGg0hSPecLpHKafTBrHCckYXJNpw1UOIoLWWcAG",
+        "role": "tenant",
+        "name": "Romelyn Gregorio",
+        "tenant_id": "T-261120143122"
+    },
+    {
+        "id": "U-261120143315",
+        "username": "maryjanelle",
+        "password_hash": "$2y$12$VDQwXAZ57OTUHU71mxieruHVF7wej3gg/K2HFKp5nOvTKMGW50tY2",
+        "role": "tenant",
+        "name": "Mary Janelle",
+        "tenant_id": "T-261120143315"
+    },
+    {
+        "id": "U-261120143726",
+        "username": "alexis",
+        "password_hash": "$2y$12$3rzHYkwEwwTEKkTUKCkrrOVJ0CZYfoRE.TD1elpPfRV0icT8UsZVq",
+        "role": "tenant",
+        "name": "Alexis",
+        "tenant_id": "T-261120143726"
+    },
+    {
+        "id": "U-261120143833",
+        "username": "mikegarrido",
+        "password_hash": "$2y$12$pmpA9dRncW4ptznI1xy6heVSRafKsXXDC8acan9HiGHKKQruB0Ovq",
+        "role": "tenant",
+        "name": "Mike Garrido",
+        "tenant_id": "T-261120143833"
+    }
+]
